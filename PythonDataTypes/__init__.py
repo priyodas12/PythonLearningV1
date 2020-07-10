@@ -1,4 +1,7 @@
 """
+
+in python every thing is object:
+-------------------------------
 int
 float
 complex
@@ -13,4 +16,10 @@ set
 frozenset
 dict
 None
+
+inbuilt data types:
+------------------
+print()
+type()
+
 """
