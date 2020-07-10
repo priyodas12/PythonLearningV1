@@ -1,0 +1,16 @@
+"""
+int
+float
+complex
+bool
+str
+bytes
+bytearray
+range
+list
+tuple
+set
+frozenset
+dict
+None
+"""
