@@ -15,7 +15,7 @@ __var==>strongly private
 __name__
 __add__
 
-Reserved words:(33)
+Reserved words:(33)-alphabetic symbol,except 1st 3 all in smaller case.
 --------------
 True,False,None
 and,or,not,is
@@ -27,3 +27,10 @@ import,from,as,class,def,pass,global,nonlocal,lambda,del,with
 """
 _name='priyo'
 print(_name)
+a=True
+print(a)
+b=None
+print(b)
+
+import keyword # keyword is module
+print(keyword.kwlist)
