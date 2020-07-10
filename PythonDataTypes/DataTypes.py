@@ -1,0 +1,10 @@
+a=10
+print(type(a))
+b=True
+print(type(b))
+c=10.23
+print(type(c))
+d=None
+print(type(d))
+e='priyo'
+print(type(e))
