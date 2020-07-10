@@ -1,3 +1,5 @@
+# python will return only decimal while print
+
 # Decimal
 a=82372
 print(a)
