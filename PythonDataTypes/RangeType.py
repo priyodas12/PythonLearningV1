@@ -18,3 +18,9 @@ for x in r2:print(x)
 r3=range(10,31,5)
 for x in r3:print(x)
 
+
+# r4=range(12.4)
+# for x in r3:print(x) # TypeError: 'float' object cannot be interpreted as an integer
+
+
+
