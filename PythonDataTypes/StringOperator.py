@@ -31,5 +31,9 @@ print(len(s))
 # reverse a string
 print(s[::-1])
 
-#
+# String to int
+v="1234"
+print(int(v))
+
+
 
