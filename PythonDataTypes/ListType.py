@@ -3,6 +3,7 @@
 2. duplicates are allowed.
 3. list convention []
 4. heterogeneous object si allowed.
+5. growable
 """
 l=[1,2,3,4,5,6,'abc',True,1.0,1,None]
 print(len(l))
