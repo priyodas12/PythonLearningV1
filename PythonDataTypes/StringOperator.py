@@ -8,6 +8,9 @@ print(s[0])
 print(s[-1])
 
 # out of range
-print(s[10])
+# print(s[10])
 # IndexError: string index out of range
+
+# capture rest
+print(s[4:])
 
