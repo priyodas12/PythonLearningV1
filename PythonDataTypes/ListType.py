@@ -9,7 +9,7 @@ l=[1,2,3,4,5,6,'abc',True,1.0,1,None]
 print(len(l))
 
 # alter elements
-l[10]=10
+# l[10]=10
 
 # type of
 print(type(l))
@@ -19,3 +19,6 @@ for x in l:print(x)
 
 # slice operation
 print(l[1:4])
+
+# multiply of element
+print(l*2)
