@@ -22,12 +22,14 @@ print(s[1:-1])
 # slice by section
 print(s[1:10:3])
 
-# string multiply or concatination
+# string multiply or concatenation
 print(s*3)
 
 # length a string
 print(len(s))
 
 # reverse a string
-print(s[-1])
+print(s[::-1])
+
+#
 
