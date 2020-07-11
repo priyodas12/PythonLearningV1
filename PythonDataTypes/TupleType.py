@@ -1,6 +1,10 @@
 """
 1. immutable
-2. other property same as List
+2. non growable
+3  insertion order maintained.
+4. duplicates are allowed.
+5. tuple convention ()
+6. heterogeneous object is allowed.
 """
 t=(1,2,3,4,5)
 print(type(t))

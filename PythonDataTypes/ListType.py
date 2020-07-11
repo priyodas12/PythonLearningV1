@@ -2,7 +2,7 @@
 1. insertion order maintained.
 2. duplicates are allowed.
 3. list convention []
-4. heterogeneous object si allowed.
+4. heterogeneous object is allowed.
 5. growable
 6. mutable
 """
