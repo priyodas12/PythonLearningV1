@@ -11,3 +11,6 @@ for x in t:print(x)
 
 # slicing<returns tuple>
 print(t[1:4])
+
+# multiplying
+print(t*2)

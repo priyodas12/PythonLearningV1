@@ -23,3 +23,4 @@ print(l[1:4])
 
 # multiply of element
 print(l*2)
+
