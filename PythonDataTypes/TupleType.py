@@ -14,3 +14,7 @@ print(t[1:4])
 
 # multiplying
 print(t*2)
+
+# inner list,tuple
+l2=[[1,2],[3,4],(5,6)]
+for x in l2:print(x)

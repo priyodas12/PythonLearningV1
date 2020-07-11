@@ -24,3 +24,6 @@ print(l[1:4])
 # multiply of element
 print(l*2)
 
+# inner list
+l2=[[1,2],[3,4],[5,6]]
+for x in l2:print(x)
