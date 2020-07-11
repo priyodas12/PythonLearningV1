@@ -5,7 +5,7 @@
 3.bytes data type is immutable
 """
 v=[1,2,3,4]
-b=bytes(v); # ValueError: bytes must be in range(0, 256)
+b=bytes(v)  # ValueError: bytes must be in range(0, 256)
 print(type(b))
 print(b)
 print(b[0])
