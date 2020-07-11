@@ -1,0 +1,13 @@
+"""
+1. immutable
+2. other property same as List
+"""
+t=(1,2,3,4,5)
+print(type(t))
+print(t)
+
+# print all element
+for x in t:print(x)
+
+# slicing<returns tuple>
+print(t[1:4])

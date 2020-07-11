@@ -4,6 +4,7 @@
 3. list convention []
 4. heterogeneous object si allowed.
 5. growable
+6. mutable
 """
 l=[1,2,3,4,5,6,'abc',True,1.0,1,None]
 print(len(l))
@@ -17,7 +18,7 @@ print(type(l))
 # print all elements
 for x in l:print(x)
 
-# slice operation
+# slice operation<returns List>
 print(l[1:4])
 
 # multiply of element
